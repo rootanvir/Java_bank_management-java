@@ -1,5 +1,5 @@
 # Java_bank_management
 
 open cmd in current path the write these following command
->:javac login.java\n
->:java login
+1.javac login.java
+2.java login
