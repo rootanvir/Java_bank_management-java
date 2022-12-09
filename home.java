@@ -57,7 +57,7 @@ public class home
 					
 				}
 			});	
-
+			//This project is developed by Tanvir Ahmed Tuhin
 
 			balance=new JLabel("Balance");
 			l_name=new JLabel("Name");
