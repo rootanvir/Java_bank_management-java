@@ -221,7 +221,4 @@ On Windows, create these folders manually if needed.
 
 ---
 
-## 12) License & Credits
 
-Educational project for demonstrating Java Swing + File I/O.  
-Original authorship: Project files inside `Java_bank_management-java-main`.
